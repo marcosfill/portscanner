@@ -10,7 +10,7 @@ Port Scanner in python.
 <br>
 #######################################################
 <h1>How to use</h1>
-Is really quickly to use, you just have to type the name of the Host that you want to scan, before the command.
+Is really quickly to use, you just have to type the name of the Host that you want to scan, after the commands.
 <br>
 <h2>On windows.</h2>
 <br>
